@@ -8,7 +8,7 @@ PyTorch Implementation of Bayesian inverse problems.  The parameterization using
 
 The developed method is demonstrated with two types of permeability estimation for flow in heterogeneous media. One is a Gaussian random field (GRF) with uncertain length scales, and the other is channelized permeability with the two regions defined by different GRFs.
 
-# Insight
+## Contributions
 
 - Based on the vanilla VAE, we extend and derive the MDGM, which can generate spatial parameters at various scales with an appropriately designed latent space.
 
@@ -37,7 +37,7 @@ The developed method is demonstrated with two types of permeability estimation f
 - Clone this repo:
 
 ```
-git clone https://https://github.com/zabaras/MH-MDGM.git
+git clone https://github.com/zabaras/MH-MDGM.git
 ```
 
 
@@ -108,4 +108,4 @@ If you find this repo useful for your research, please consider to cite:
 
 ## Questions
 
-For any questions or comments regarding this paper, please contact Yingzhi Xia via ([xiayzh@shanghaitech.edu.cn](mailto:xiayzh@shanghaitech.edu.cn)).
+For any questions or comments regarding this paper, please contact Yingzhi Xia via [xiayzh@shanghaitech.edu.cn](mailto:xiayzh@shanghaitech.edu.cn).
